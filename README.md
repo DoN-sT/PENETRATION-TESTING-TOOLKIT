@@ -37,3 +37,6 @@ Upon launching the tool, users are greeted with a friendly interface that presen
 Based on the selected operation, the program guides the user through a seamless and efficient workflow.
 
 ******** Output**********
+![Image](https://github.com/user-attachments/assets/e64fdf26-6d46-475a-8dcf-cdf90cfe8609)
+
+![Image](https://github.com/user-attachments/assets/f0e50f6a-d605-4325-986b-6de9bc7cbc2b)
